@@ -3,6 +3,7 @@ require 'addressable/uri'
 require 'simple_oauth'
 require 'simple_stream/connection'
 require 'simple_stream/response'
+require 'simple_stream/version'
 
 module SimpleStream
   class Client
