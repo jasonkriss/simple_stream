@@ -1,4 +1,5 @@
 require 'buftok'
+require 'json'
 require 'http/parser'
 
 module SimpleStream
